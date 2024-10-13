@@ -1,0 +1,4 @@
+# local-host-names - include all aliases for your machine here.
+lab.cl
+server.lab.cl
+mail.lab.cl

@@ -1,0 +1,10 @@
+$TTL 86400
+@		IN      SOA	server.lab.cl.	root.server.lab.cl. (
+                        2024043000 ; serial
+                        2H ; refresh
+                        1H ; retry
+                        1W ; expire
+                        1D ; default_ttl
+                        )
+                        NS    server.lab.cl.
+10		IN      PTR     server.lab.cl.
